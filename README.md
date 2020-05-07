@@ -1,6 +1,4 @@
-# fitness-salon-lp
-
-> My geometric Nuxt.js project
+# Nuxt-Boilerplate
 
 ## Build Setup
 
